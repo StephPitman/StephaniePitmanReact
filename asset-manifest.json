@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/StephaniePitmanReact/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/StephaniePitmanReact/static/js/main.cc7332f1.chunk.js",
+    "main.js.map": "/StephaniePitmanReact/static/js/main.cc7332f1.chunk.js.map",
+    "runtime-main.js": "/StephaniePitmanReact/static/js/runtime-main.757bb7d3.js",
+    "runtime-main.js.map": "/StephaniePitmanReact/static/js/runtime-main.757bb7d3.js.map",
+    "static/js/2.bbd1ba62.chunk.js": "/StephaniePitmanReact/static/js/2.bbd1ba62.chunk.js",
+    "static/js/2.bbd1ba62.chunk.js.map": "/StephaniePitmanReact/static/js/2.bbd1ba62.chunk.js.map",
+    "static/js/3.c8c33c27.chunk.js": "/StephaniePitmanReact/static/js/3.c8c33c27.chunk.js",
+    "static/js/3.c8c33c27.chunk.js.map": "/StephaniePitmanReact/static/js/3.c8c33c27.chunk.js.map",
+    "index.html": "/StephaniePitmanReact/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/StephaniePitmanReact/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.bbd1ba62.chunk.js.LICENSE.txt": "/StephaniePitmanReact/static/js/2.bbd1ba62.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/StephaniePitmanReact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.757bb7d3.js",
+    "static/js/2.bbd1ba62.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.cc7332f1.chunk.js"
+  ]
+}
